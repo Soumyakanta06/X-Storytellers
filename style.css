@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.meet-storytellers {
+    background-image: url('./assets/images/main-poster-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center above;
+    height: 98vh;
+}
