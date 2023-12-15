@@ -71,7 +71,8 @@
   }
 
   .brands {
-    width: 55%;
+    width: 50%;
+    height: 40%;
   }
 
   .arrow {
@@ -106,4 +107,28 @@
 
   .join-creative-community {
     min-height: 40vh;
+  }
+
+  .join-ai-revolution {
+    height: 65vh;
+  }
+
+  .cartoon-3d {
+    height: 55vh;
+  }
+
+  footer {
+    min-height: 50vh;
+  }
+
+  .footer-list-items ul li {
+    margin: 8% 0;
+  }
+
+  .hr-line {
+    color: grey;
+  }
+
+  hr.hr-line {
+    border-top: 1px solid rgba(128, 128, 128, 0.815);
   }
