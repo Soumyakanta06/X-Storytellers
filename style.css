@@ -94,9 +94,9 @@
   }
 
   .arrow {
-    position: relative;
-    bottom: 0;
-    top: 20%;
+    position: absolute;
+    bottom: -4%;
+    /* top: 20%; */
     left: 49%;
     /* margin-left:-20px; */
     width: 40px;
